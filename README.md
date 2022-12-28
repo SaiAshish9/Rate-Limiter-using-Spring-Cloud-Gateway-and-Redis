@@ -12,3 +12,18 @@ Type in terminal:
 
 redis-server
 ```
+
+
+Add followind dependencies to enable rate limiters:
+
+```
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-redis-reactive</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+		</dependency>
+```
