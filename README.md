@@ -4,6 +4,8 @@
 
 <img width="1290" alt="Screenshot 2022-12-29 at 12 15 27 AM" src="https://user-images.githubusercontent.com/43849911/209858458-c9b79272-92ff-4596-b48a-289ec6be514f.png">
 
+<img width="1278" alt="Screenshot 2022-12-29 at 12 19 48 AM" src="https://user-images.githubusercontent.com/43849911/209858813-d88b7a79-8108-47c6-8d7d-6ec427359d94.png">
+
 Spring Cloud Gateway has the mapping for GET endpoint.
 
 Redis has all the data for rate limiting.
