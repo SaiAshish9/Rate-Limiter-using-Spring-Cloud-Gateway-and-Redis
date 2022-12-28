@@ -6,7 +6,7 @@
 
 <img width="1278" alt="Screenshot 2022-12-29 at 12 19 48 AM" src="https://user-images.githubusercontent.com/43849911/209858813-d88b7a79-8108-47c6-8d7d-6ec427359d94.png">
 
-<img width="1461" alt="Screenshot 2022-12-29 at 12 23 09 AM" src="https://user-images.githubusercontent.com/43849911/209859220-13433cf8-f4eb-4ff1-bd65-2dab6eb24850.png">
+<img width="1470" alt="Screenshot 2022-12-29 at 12 25 12 AM" src="https://user-images.githubusercontent.com/43849911/209859439-5cbec699-6c4e-4528-9b1e-74251346e074.png">
 
 Spring Cloud Gateway has the mapping for GET endpoint.
 
