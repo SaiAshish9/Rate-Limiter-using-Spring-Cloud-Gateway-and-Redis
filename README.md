@@ -19,7 +19,7 @@ Type in terminal:
 
 redis-server
 ```
-
+https://developer.redis.com/explore/import/
 
 Add followind dependencies to enable rate limiters:
 
