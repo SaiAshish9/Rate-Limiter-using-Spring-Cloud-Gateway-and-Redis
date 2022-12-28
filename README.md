@@ -15,6 +15,7 @@ We won't be able to apply rate limiters within the application while scaling.
 But gateway can be scaled
 
 https://redis.io/docs/getting-started/installation/install-redis-on-mac-os/
+https://redis.com/redis-enterprise/redis-insight/
 
 ```
 Type in terminal:
