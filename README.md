@@ -3,3 +3,12 @@
 Spring Cloud Gateway has the mapping for GET endpoint.
 
 Redis has all the data for rate limiting.
+
+
+https://redis.io/docs/getting-started/installation/install-redis-on-mac-os/
+
+```
+Type in terminal:
+
+redis-server
+```
