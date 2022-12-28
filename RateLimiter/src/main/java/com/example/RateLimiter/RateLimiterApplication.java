@@ -9,14 +9,13 @@ import reactor.core.publisher.Mono;
 @SpringBootApplication
 public class RateLimiterApplication {
 
-//	key used for rate limiter every time a re q comes in
-//	could be user ,host
+//	key used for rate limiter every time a req comes in
 
 	@Bean
 	public KeyResolver keyResolver(){
-		return exchange -> Mono.just(exchange.getRequest().getRemoteAddress().getAddress().getHostAddress());
+		return exchange -> Mono.just(exchange.getRequest()
+				.getRemoteAddress().getAddress().getHostAddress());
 	}
-//	using host class
 
 	public static void main(String[] args) {
 		SpringApplication.run(RateLimiterApplication.class, args);
