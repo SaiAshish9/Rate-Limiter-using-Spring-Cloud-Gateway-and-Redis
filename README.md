@@ -4,6 +4,11 @@ Spring Cloud Gateway has the mapping for GET endpoint.
 
 Redis has all the data for rate limiting.
 
+With Resilience4J and Bucket4j we can add code within the application most of the times.
+
+We won't be able to apply rate limiters within the application while scaling.
+
+But gateway can be scaled
 
 https://redis.io/docs/getting-started/installation/install-redis-on-mac-os/
 
