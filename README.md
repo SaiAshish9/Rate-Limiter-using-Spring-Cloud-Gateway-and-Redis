@@ -1,5 +1,7 @@
 <img width="1266" alt="Screenshot 2022-12-28 at 5 43 28 PM" src="https://user-images.githubusercontent.com/43849911/209810569-18868c13-8015-4f43-9a24-dec4401aa25a.png">
 
+<img width="1792" alt="Screenshot 2022-12-29 at 12 00 33 AM" src="https://user-images.githubusercontent.com/43849911/209856972-61fbbaaf-909f-40d4-a8e3-ac3b907cccff.png">
+
 Spring Cloud Gateway has the mapping for GET endpoint.
 
 Redis has all the data for rate limiting.
@@ -31,4 +33,5 @@ Add followind dependencies to enable rate limiters:
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
+
 ```
